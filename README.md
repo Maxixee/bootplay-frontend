@@ -18,7 +18,7 @@
 ### How to run the application
 
 ##### Front-End
-- ```git clone inserir o link dps ``` To clone the repository in your IDE
+- ```git clone https://github.com/bc-fullstack-04/hiego-barreto-frontend ``` To clone the repository in your IDE
 - ```npm install ``` To install the required dependencies
 - ```npm run dev ``` To run the Front-End
 
@@ -31,23 +31,15 @@ You must have Docker installed to run the application locally.
 
 ---
 
-### Project demonstration // Demonstração do projeto
+# Project demonstration // Demonstração do projeto
 
+######  English
 Features demonstrated in video:
 - Login;
 - Album search;
-- Adding credits to the portfolio;
+- Adding credits to the wallet;
 - Buying album;
 - Album directing to Spotify;
-
-Features demonstradas em vídeo: 
-- Login; 
-- Pesquisa de album; 
-- Adicionando créditos à carteira; 
-- Comprando album; 
-- Album direcionando ao Spotify;
-
-
 
 Extra screens and features:
 - Profile screen
@@ -56,12 +48,26 @@ Extra screens and features:
 - 404 - not found screen
 - Directing to the developer's github
 
+######  Português - Br
+Features demonstradas em vídeo: 
+- Login; 
+- Pesquisa de album; 
+- Adicionando créditos à carteira; 
+- Comprando album; 
+- Album direcionando ao Spotify;
+
 Telas e feature extras:
 - Tela de perfil
 - Tela da carteira
 - Verificação de saldo antes de comprar album
 - Tela de 404 - not found
 - Direcionamento ao github do desenvolvedor
+
+### Presentation video // Video de demonstração
+- https://www.youtube.com/watch?v=XNML2dWQHRI
+
+- 404 - not found page
+![image](https://github.com/Maxixee/AGAIN/assets/129869034/76fc072e-35ca-44b4-9de2-16cc7b3eb01f)
 
 ---
 
@@ -85,7 +91,7 @@ Telas e feature extras:
 ### Como executar a aplicação
 
 ##### Front-End:
-- ```git clone inserir o link dps ``` Para clonar o repositório na sua IDE
+- ```git clone https://github.com/bc-fullstack-04/hiego-barreto-frontend``` Para clonar o repositório na sua IDE
 - ```npm install ``` Para instalar as dependências necessárias
 - ```npm run dev ``` Para executar o Front-End
 
