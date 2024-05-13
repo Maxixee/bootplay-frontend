@@ -13,7 +13,7 @@
 
 
 ### Backend repository
-- https://github.com/Maxixee/record-sales-backend
+- https://github.com/Maxixee/bootplay-backend
 
 ### How to run the application
 
@@ -24,7 +24,7 @@
 
 ##### Back-End:
 You must have Docker installed to run the application locally.
-- ```git clone https://github.com/Maxixee/record-sales-backend.git ``` To clone the repository in your IDE
+- ```git clone https://github.com/Maxixee/bootplay-backend ``` To clone the repository in your IDE
 - ```docker-compose -f docker-compose.yml build ``` To download the required images
 - ```docker-compose -f docker-compose.yml up``` To create containers
 - Once these commands have been carried out, simply run the backend in your IDE.
@@ -86,7 +86,7 @@ Telas e feature extras:
 
 
 ### Repositório do Backend
-- https://github.com/Maxixee/record-sales-backend
+- https://github.com/Maxixee/bootplay-backend
 
 ### Como executar a aplicação
 
@@ -97,7 +97,7 @@ Telas e feature extras:
 
 ##### Back-End:
 É necessário ter o Docker instalado para executar a aplicação localmente.
-- ```git clone https://github.com/Maxixee/record-sales-backend.git ``` Para clonar o repositório na sua IDE
+- ```git clone https://github.com/Maxixee/bootplay-backend ``` Para clonar o repositório na sua IDE
 - ```docker-compose -f docker-compose.yml build ``` Para fazer o download das imagens necessárias
 - ```docker-compose -f docker-compose.yml up``` Para criar os containers
 - Realizados estes comandos, basta  executar o backend na sua IDE.
