@@ -64,8 +64,14 @@ Telas e feature extras:
 - Direcionamento ao github do desenvolvedor
 
 ### Presentation video // Video de demonstração
-- https://www.youtube.com/watch?v=XNML2dWQHRI
 
+
+https://github.com/bc-fullstack-04/hiego-barreto-frontend/assets/129869034/209d6d28-ef96-449b-a9ff-f95eb7b984a8
+
+
+- Youtube link: https://www.youtube.com/watch?v=XNML2dWQHRI
+
+  
 - 404 - not found page
 ![image](https://github.com/Maxixee/AGAIN/assets/129869034/76fc072e-35ca-44b4-9de2-16cc7b3eb01f)
 
