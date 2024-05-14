@@ -18,7 +18,7 @@
 ### How to run the application
 
 ##### Front-End
-- ```git clone https://github.com/bc-fullstack-04/hiego-barreto-frontend ``` To clone the repository in your IDE
+- ```git clone https://github.com/Maxixee/bootplay-frontend ``` To clone the repository in your IDE
 - ```npm install ``` To install the required dependencies
 - ```npm run dev ``` To run the Front-End
 
@@ -97,7 +97,7 @@ https://github.com/bc-fullstack-04/hiego-barreto-frontend/assets/129869034/209d6
 ### Como executar a aplicação
 
 ##### Front-End:
-- ```git clone https://github.com/bc-fullstack-04/hiego-barreto-frontend``` Para clonar o repositório na sua IDE
+- ```git clone https://github.com/Maxixee/bootplay-frontend``` Para clonar o repositório na sua IDE
 - ```npm install ``` Para instalar as dependências necessárias
 - ```npm run dev ``` Para executar o Front-End
 
