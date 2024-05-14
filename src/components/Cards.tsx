@@ -15,7 +15,7 @@ export function CardsList({ searchTerm }: Props) {
   const [wallet, setWallet] = useState<WalletModel | null>(null);
 
   useEffect(() => {
-    album_api.get(`/albums/all?searchText=${searchTerm}`)
+    album_api.get(`/albums/all?search=${searchTerm}`)
       .then(response => {
         setAlbums(response.data);
       });
@@ -59,7 +59,7 @@ export function CardsCarousel() {
   const [wallet, setWallet] = useState<WalletModel | null>(null);
 
   useEffect(() => {
-    album_api.get("/albums/all?searchText=yung lixo").then((response) => {
+    album_api.get("/albums/all?search=yung lixo").then((response) => {
       setAlbums(response.data);
     });
   }, []);
